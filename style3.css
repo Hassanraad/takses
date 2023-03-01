@@ -1,0 +1,61 @@
+.class1{
+    background-color: red;
+    width: 20%;
+    height: 50px;
+    text-align:center ;
+    margin: 5px;
+}
+.class2{
+    background-color: red;
+    width: 25%;
+    height: 60px;
+    text-align:center ;
+    margin: 5px;
+}
+.class3{
+    background-color: red;
+    width: 30%;
+    height: 70px;
+    text-align:center ;
+    margin: 5px;
+}
+.class4{
+    border: 1px purple dashed ;
+    display: inline-block;
+    padding: 0px 20px 20px 0px;
+}
+.class5{
+    border: 1px purple dashed ;
+    display: inline-block;
+    padding: 0px 20px 20px 0px;
+}
+.class6{
+    border: 1px purple dashed ;
+    display: inline-block;
+    padding: 0px 20px 20px 0px;
+}
+.class7{
+    border: 2px green solid;
+    width: 10%;
+    margin: 4px;
+    height: 60px;
+}
+.class7 div{
+    border: 2px green solid;
+    margin: 20% 36% 6% 20%;
+}
+.class8{
+    border: green solid;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    height: 50px;
+
+}
+.class9{
+    border-top: 1px solid brown;
+    border-right: 1px solid brown;
+    border-left: 1px solid brown;
+    border-bottom: 1px solid brown;
+    width: 96px;
+}
