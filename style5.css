@@ -1,0 +1,63 @@
+form{
+
+    
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 1px 6px 0px black;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 700px;
+    margin: 3% auto
+}
+.parent{
+    display: flex;
+    margin: 0% 5%;
+    border-radius: 5px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly
+}
+.chaild1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+input{
+    display: block;
+    margin: 10px 0px;
+   border-width: 0px 0px 1px 0px ;
+   opacity: 0.6;
+    display: inline;
+
+}
+button{
+    background-color: #c2a6e1;
+    margin: 17px 0px;
+    padding: 7px 16px;
+    border: 1px solid;
+    border-radius: 6px;
+    color: white;
+}
+button:hover{
+   transition: 0.5s;
+    background-color:#7f5ea3 ;
+    padding: 9px 18px;
+}
+.chaild2{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 80%;
+    justify-content: space-evenly;
+    margin: 26px 0px 43px;
+}
+.s01{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+span p{
+    display: inline;
+}
+.s03 a{
+    text-decoration: none;
+}
